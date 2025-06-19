@@ -13,8 +13,8 @@ Let's build something amazing!
 
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://github.com/AutomatehubOfficial/.github/blob/main/profile/banner.png?raw=true" alt="Automate Hub Official Banner">
-  <a href="https://ibb.co/fVfwpWMW"><img src="https://i.ibb.co/ZR5D8rdr/FD9060-B5-41-B9-40-DB-8-ED0-173-C99-CB798-C.png" alt="FD9060-B5-41-B9-40-DB-8-ED0-173-C99-CB798-C" border="0"></a>
+
+<!-- <a href="https://ibb.co/fVfwpWMW"><img src="https://i.ibb.co/ZR5D8rdr/FD9060-B5-41-B9-40-DB-8-ED0-173-C99-CB798-C.png" alt="FD9060-B5-41-B9-40-DB-8-ED0-173-C99-CB798-C" border="0"></a> -->
 <a href="https://ibb.co/4wgXdN7T"><img src="https://i.ibb.co/NgnJSYsj/82236-EFD-6135-468-F-83-EC-32681182843-F.png" alt="82236-EFD-6135-468-F-83-EC-32681182843-F" border="0"></a>
 </p>
 
